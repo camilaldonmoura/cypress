@@ -1,0 +1,24 @@
+{
+  "name": "testscypress",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\"> Testes de Aplicações Modernas com Cypress </h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilalnmoura/testsCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilalnmoura/testsCypress/issues"
+  },
+  "homepage": "https://github.com/camilalnmoura/testsCypress#readme",
+  "dependencies": {
+    "cypress": "^3.6.0"
+  }
+}
